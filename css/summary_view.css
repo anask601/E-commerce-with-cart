@@ -1,0 +1,15 @@
+.summary_cont {
+    padding: 20px;
+}
+
+.summary_table {
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 15px;
+    box-shadow: rgb(0 0 0 / 6%) 0px 3px 6px 3px;
+}
+
+.summary_table th {
+    border-bottom: 1px solid grey;
+}
